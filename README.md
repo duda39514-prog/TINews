@@ -1,1 +1,68 @@
-# TINews
+# TINews (Site Inteligência Artificial)
+
+<html>
+    <head>
+        <title>Inteligência Artificial(￣▽￣)</title>
+    </head>
+    <body style="background: linear-gradient(135deg, rgb(223, 233, 231), rgb(90, 170, 219));">
+        <h1>Inteligência Artificial: A Tecnologia do Futuro</h1>
+        <p>A<b> Inteligência Artificial(IA)</b> é uma tecnologia que permite que máquinas realizem tarefas que normalmente exigem inteligência humana, como aprender, analisar informações e tomar decisões.</p>
+        <p>Atualmente, a IA está presente em <i>assistentes virtuais</i>, carros autônomos, sistemas de recomendação de filmes e até mesmo na medicina.</p>
+        <p>Segundo especialistas, a IA poderá transformar diversos setores da sociedade nos próximos <sup>10</sup> anos.</p>
+        <p>O aprendizado de máquina é um <sub>subcampo</sub> da Inteligência Artificial.</p>
+        <p>A IA está sendo constantemente <ins>aperfeiçoada</ins> para oferecer soluções mais inteligentes.</p>
+        <p>Algumas tecnologias antigas já foram <del>substituídas</del> por sistemas baseados em IA.</p>
+        <p><small>Esta matéria possui caráter informativo.</small></p>
+        <p><mark style="background-color: rgb(62, 47, 174); color:rgb(252, 240, 222)">A Inteligência Artificial é considerada uma das tecnologias mais importantes da atualidade.</mark></p>
+        <p><h2>Imagem Ilustrativa</h2></p>
+        <img src="https://scansource.com.br/wp-content/uploads/2024/02/Imagem-Principal.jpg" width="300px" height="auto">
+         <h3><a href="https://www.ibm.com/br-pt/think/topics/artificial-intelligence"><p>Clique aqui para saber mais sobre Inteligência Artificial</p></a></h3>
+         <h2><p>Principais Aplicações da IA</p></h2>
+         <ol type="1">
+            <li>Medicina</li>
+            <li>Educação</li>
+            <li>Segurança</li>
+            <li>Indústria</li>
+            <li>Entretenimento</li>
+         </ol>
+         <h2><p>Vantagens da IA</p></h2>
+         <ul>
+            <li>Automatização das Tarefas</li>
+            <li>Aumento da Produtividade</li>
+            <li>Redução de Erros</li>
+            <li>Melhoria na tomada de decisões</li>
+         </ul>
+         <h2><p>Tabela de exemplos de Uso de IA</p></h2>
+         <table border="I" style="border-color: rgb(27, 27, 134);">
+            <thead style="background-color: rgb(64, 64, 113); color: rgb(237, 237, 188)">
+                <tr>
+                <th>Área</th>
+                <th>Aplicação</th>
+                <th>Beneficios</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td  style="background-color: rgb(64, 64, 113); color: rgb(237, 237, 188)">Saúde</td>
+                <td style="background-color: antiquewhite;">Diagnóstico Médico</td>
+                <td  style="background-color: antiquewhite;">Maior Precisão</td>
+                </tr>
+                <tr>
+                <td style="background-color: rgb(64, 64, 113); color: rgb(237, 237, 188)">Educação</td>
+                <td style="background-color: antiquewhite;">Tutores Virtuais</td>
+                <td style="background-color: antiquewhite;">Aprendizado Personalizado</td>
+                </tr>
+                <tr>
+                <td style="background-color: rgb(64, 64, 113); color: rgb(237, 237, 188)">Transporte</td>
+                <td style="background-color: antiquewhite;">Carros Autônomos</td>
+                <td style="background-color: antiquewhite;">Mais Segurança</td>
+                </tr>
+                <tr>
+                <td style="background-color: rgb(64, 64, 113); color: rgb(237, 237, 188)">Comércio</td>
+                <td style="background-color: antiquewhite;">Recomendação de Produtos</td>
+                <td style="background-color: antiquewhite;">Melhor Experiência do Cliente</td>
+                </tr>
+            </tbody>
+         </table>
+    </body>
+</html>
